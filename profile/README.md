@@ -24,3 +24,5 @@ Somos uma agência de marketing digital especializada em Vendas pela Internet. F
 ### 💻 Sobre o GitHub da Byll 256
 
 A escolha do GitHub como plataforma central para manter os projetos dos nossos clientes é uma parte fundamental da nossa abordagem para fornecer serviços de alta qualidade, seguros e confidenciais. Estamos comprometidos em proteger os interesses dos nossos clientes e em garantir que eles se beneficiem das mais recentes tecnologias e práticas de desenvolvimento.
+
+E quando viermos a desenvolver softwares livres para a comunidade, estaremos disponibilizando aqui no GitHub.
